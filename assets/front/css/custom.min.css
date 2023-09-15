@@ -1,0 +1,24 @@
+.card-purple-blue {
+    background: linear-gradient(45deg, #6d80fe 0%, #23d2fd 100%);
+    border-radius: 16px
+  }
+  
+  .card-salmon-pink {
+    background: linear-gradient(45deg, #ff998b 0%, #ff6d88 100%);
+    border-radius: 16px
+  }
+  
+  .card-blue-green {
+    background: linear-gradient(45deg, #09afe8 0%, #29f499 100%);
+    border-radius: 16px
+  }
+  
+  .card-purple-pink {
+    background: linear-gradient(45deg, #707cff 0%, #fa81e8 100%);
+    border-radius: 16px
+  }
+  
+  .color-white2{
+    color: white !important;
+  }
+/*# sourceMappingURL=custom.min.css.map */
